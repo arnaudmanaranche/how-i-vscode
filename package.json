@@ -1,0 +1,12 @@
+{
+  "name": "how-i-vscode",
+  "description": "List of shareable VSCode settings",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arnaudmanaranche/how-i-vscode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/arnaudmanaranche/how-i-vscode/issues"
+  },
+  "homepage": "https://github.com/arnaudmanaranche/how-i-vscode#readme"
+}
