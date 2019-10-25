@@ -6,6 +6,7 @@ Shareable VSCode settings
 
 - [scottwater](https://howivscode.com/scottwater)
 - [arnaudmanaranche](https://howivscode.com/arnaudmanaranche)
+- [viclafouch](https://howivscode.com/viclafouch)
 
 ## Setup yours
 
